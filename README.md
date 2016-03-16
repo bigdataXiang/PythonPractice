@@ -43,6 +43,9 @@ set  导出/设置一个新的环境变量
 exit  退出shell
 
 for example：
+
 cd d：   跳转到d盘
+
 cd test/practice   跳转到d:test/practice
+
 cd ../..  返回上两级路径
